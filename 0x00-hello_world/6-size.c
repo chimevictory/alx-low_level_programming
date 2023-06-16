@@ -3,7 +3,7 @@
  * main - prints the size of various computer types
  * Return 0(Success)
  */
-void main(void)
+int main(void)
 {
 printf("size of a char: %d byte(s)\n", sizeof(char));
 printf("size of an int: %d byte(s)\n", sizeof(int));
